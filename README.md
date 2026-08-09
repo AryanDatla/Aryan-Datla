@@ -1,2 +1,2 @@
-![Page1](Page1.png)
-![Page2](Page2.png)
+![Page1](Page1.jpg)
+![Page2](Page2.jpg)
